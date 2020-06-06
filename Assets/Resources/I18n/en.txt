@@ -1,0 +1,15 @@
+﻿name=QUICK CARGO!
+play=PLAY
+leaderboard=LEADERBOARD(Soon)
+quit=QUIT
+exp1=* These are the customers that you should deliver a cargo.
+exp4=* If you have more than five customer on your screen, you'll lose work effiency.
+exp2=* If you deliver a cargo to non-customers, you'll lose work efficiency.
+exp3=* If you can't deliver a cargo, you'll lose work efficiency.
+pause=PAUSED
+resume=RESUME
+menu=MENU
+lose=YOU HAVE FAILED THIS CITY!
+score=HIGH SCORE:
+continue=CONTINUE?
+retry=RETRY

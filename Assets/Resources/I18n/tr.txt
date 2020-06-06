@@ -1,0 +1,15 @@
+﻿name=ÇABUK KARGO!
+play=OYNA
+leaderboard=LİDER TABLOSU(Yakında)
+quit=KAPAT
+exp1=* Bunlar kargo dağıtman gereken müşteriler.
+exp4=* Eğer ekranda 5'ten fazla müşteri olursa iş verimliliğin azalmaya başlar.
+exp2=* Eğer müşteri olmayan birisine kargo verirsen iş verimliliğin azalır.
+exp3=* Eğer kargoyu boşa atarsan iş verimliliğin azalır.
+pause=DURDURULDU
+resume=DEVAM
+menu=MENÜ
+lose=BU ŞEHRİ YÜZÜSTÜ BIRAKTIN
+score=EN YÜKSEK SKOR:
+continue=DEVAM?
+retry=TEKRAR OYNA
